@@ -4,7 +4,7 @@ A portable, native, drop-in REPL system for interactive command lines.
 
 |---------+---------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/native-repl.git |
-| commit  | 2cfe1c4                                           |
+| commit  | cb87a6b                                           |
 | systems | native-repl                                       |
 |---------+---------------------------------------------------|
 ------------------|
